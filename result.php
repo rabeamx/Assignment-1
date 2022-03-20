@@ -1,7 +1,5 @@
 <?php
 
-
-
 function result($mark){
 
     if( $mark >= 0 && $mark <= 32 ){
@@ -25,7 +23,5 @@ function result($mark){
         echo "<h3 style = 'text-align:center; color:#FF00FF; margin-top:50px; font-family:montserrat;'>Letter Grade: A+<br> & Grade Point: 5.00</h3>";
     }
 }
-
-
 
 ?>
