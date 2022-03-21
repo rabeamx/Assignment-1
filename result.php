@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  Result System - 01
+ *  Result System => 01
  */
 
 function result($mark){
@@ -29,7 +29,7 @@ function result($mark){
     else {
         echo "<h5 style = 'text-align:center; color:#FD1C03; margin-top:50px; font-family:montserrat;'>Not Found</h5>";
     }
-    
+
 }
 
 ?>

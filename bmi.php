@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  BMI Calculate - 05
+ *  BMI Calculate => 05
  */
 
  function getBMI($weight, $height){

@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  Area Formulas - 02
+ *  Area Formulas => 02
  */
 
  function getArea($type = 'r', $length, $width = null)

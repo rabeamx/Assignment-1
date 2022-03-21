@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  Dynamic Headline - 06
+ *  Dynamic Headline => 06
  */
 
  function currencyCon(int $amount = null, string $type = null)
@@ -30,7 +30,7 @@
      }
 
      $bdt = $amount * $rate;
-     
+
      return "<span style = 'text-align:center; display:block;  font-weight:bold; color:#191970; font-family:montserrat;'>Currency Converter :<br>{$amount} {$type} = {$bdt} tk</span>";
 
  }

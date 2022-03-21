@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  Loop Function Using Increment & Decrement Operator - 08
+ *  Loop Function Using Increment & Decrement Operator => 08
  *  1) First Loop__Incremenet Operator
  */
 function INloop($i){
@@ -24,7 +24,7 @@ function DEloop($i){
 }
 
 /**
- *  3) Third Loop__Divisible By 3 & 4 Using For Loop - 09
+ *  3) Third Loop__Divisible By 3 & 4 Using For Loop => 09
  */
  function DVloop($i){
     for($i >= 0; $i <= 624; $i++){
@@ -37,7 +37,7 @@ function DEloop($i){
  }
 
  /**
- *  4) Fourth Loop__End When Divisible By 11 - 10
+ *  4) Fourth Loop__End When Divisible By 11 => 10
  */
 function DIEloop($i){
     for($i > 0; $i <= 100; $i = $i + 3){
