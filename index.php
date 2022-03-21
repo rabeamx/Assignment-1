@@ -28,4 +28,26 @@ include_once "./headline.php";
 
 echo headline('We Are Devs');
 
+/**
+ *  BMI Calculate - 05
+ * 
+ */
+include_once "./bmi.php";
+
+getBMI(58, 1.7);
+
+/**
+ *  Currency Converter - 06
+ */
+include_once "./currency.php";
+
+echo currencyCon(100, 'euro');
+
+/**
+ *  Uppercase Lowercase Handwriting System - 07
+ */
+include_once "./function.php";
+
+borohat('we are developer');
+
 ?>
