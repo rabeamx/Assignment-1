@@ -30,7 +30,8 @@
      }
 
      $bdt = $amount * $rate;
-     return "<h5 style = 'text-align:center; color:#8B008B; font-family:montserrat;'>Currency Converter :<br>{$amount} {$type} = {$bdt} tk</h5>";
+     
+     return "<span style = 'text-align:center; display:block;  font-weight:bold; color:#191970; font-family:montserrat;'>Currency Converter :<br>{$amount} {$type} = {$bdt} tk</span>";
 
  }
 
