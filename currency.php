@@ -1,7 +1,7 @@
 <?php
 
 /**
- *  Dynamic Headline => 06
+ *  Currency Converter => 06
  */
 
  function currencyCon(int $amount = null, string $type = null)
